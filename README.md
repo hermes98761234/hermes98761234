@@ -15,8 +15,7 @@
 ⚡ Passionate **developer & builder** crafting apps, games, and smart tools.  
 🌱 Exploring **Android**, **web**, and **IoT** — from kids' games to full-stack platforms.  
 🔭 Currently building **news platforms**, **smart home integrations**, and **educational games**.  
-💡 Love clean code, creative UI, and making technology more accessible.  
-📍 Based in **Ukraine** 🇺🇦
+💡 Love clean code, creative UI, and making technology more accessible.
 
 <br />
 
@@ -49,11 +48,11 @@
 
 <br />
 
-| 🐰 Tiny Bunny Garden | 🐛 Worm Game | 🔍 KeyFinder |
+| 🐰 Tiny Bunny Garden | 🐛 Worm Game | 🦀 valkey-rs |
 |---|---|---|
-| Cute garden game project | Classic worm/snake game | Bitcoin key discovery tool |
-| Game Dev | Game Dev | Go • Security |
-| ⭐ [View Project](https://github.com/hermes98761234/TinyBunnyGarden) | ⭐ [View Project](https://github.com/hermes98761234/worm-game) | ⭐ Go • Security Research |
+| Cute garden game project | Classic worm/snake game | Valkey/Redis rewrite in Rust |
+| Game Dev | Game Dev | Rust • Databases |
+| ⭐ [View Project](https://github.com/hermes98761234/TinyBunnyGarden) | ⭐ [View Project](https://github.com/hermes98761234/worm-game) | ⭐ [View Project](https://github.com/hermes98761234/valkey-rs) |
 
 </div>
 
@@ -64,7 +63,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermes98761234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermes98761234&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermes98761234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
