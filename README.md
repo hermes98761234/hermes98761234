@@ -32,6 +32,7 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) | ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=for-the-badge) |
 | ![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge) |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) |
+| | ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge) | |
 
 </div>
 
@@ -50,18 +51,18 @@
 
 <br />
 
-| 🐜 ant-world | 📰 news-site | 📊 htop-go |
+| 🐜 ant-world | 📰 news-site | 🎯 browser-shooter |
 |---|---|---|
-| Massively multiplayer browser ant colony simulation | Self-hosted news CMS — Next.js + Axum + SQLite + Valkey | htop rewritten in Go — interactive Linux process viewer |
-| TypeScript • Phaser 3 • Colyseus | Rust • Next.js • Docker | Go |
-| ⭐ [View Project](https://github.com/hermes98761234/ant-world) | ⭐ [View Project](https://github.com/hermes98761234/news-site) | ⭐ [View Project](https://github.com/hermes98761234/htop-go) |
+| Massively multiplayer browser ant colony simulation | Self-hosted news CMS — Next.js + Axum + SQLite + Valkey | 3D browser FPS — solo wave survival + CS-style P2P competitive with bomb objective, economy & bots |
+| TypeScript • Phaser 3 • Colyseus | Rust • Next.js • Docker | TypeScript • Three.js • React • WebRTC |
+| ⭐ [View Project](https://github.com/hermes98761234/ant-world) | ⭐ [View Project](https://github.com/hermes98761234/news-site) | ⭐ [View Project](https://github.com/hermes98761234/browser-shooter) |
 
 </div>
 
 <br />
 
 <!-- Rust Rewrites -->
-## 🦀 Rust Rewrites & CLI Tools
+## 🦀 Rust & Go Rewrites & CLI Tools
 
 | Project | Description |
 |---|---|
@@ -72,6 +73,7 @@
 | ⚡ [wrk-rs](https://github.com/hermes98761234/wrk-rs) | Modern HTTP benchmarking tool — Rust rewrite of wrk |
 | 🛠️ [skill-manager](https://github.com/hermes98761234/skill-manager) | CLI to manage AI agent skills across Claude Code, Hermes, and more |
 | 🌡️ [thermowatch](https://github.com/hermes98761234/thermowatch) | Linux thermal sensor monitor — color-coded tables, JSON output, live TUI |
+| 📊 [htop-go](https://github.com/hermes98761234/htop-go) | htop rewritten in Go — interactive Linux process viewer |
 
 <br />
 
